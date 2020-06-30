@@ -8,7 +8,7 @@ summary: Vertederos en Chiloe
 
 <!-- Contenido del Post -->
 
-## PORTADAAAAAA
+## Vertederos y Residuos sanitarios
 
 ```
 Sitio: Chiloé, Región de los lagos
